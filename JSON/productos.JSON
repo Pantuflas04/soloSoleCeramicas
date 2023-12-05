@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nombre": "Maceta Frida 1",
+        "precio": 19.99,
+        "imagen":  "../img/menu/Fridas_sola__1_-removebg-preview.png",
+        "descripcion": "Maceta con forma de Frida Kahlo, diseño 1"
+    },
+    {
+        "id": 2,
+        "nombre": "Maceta Frida 2",
+        "precio": 24.99,
+        "imagen": "img/menu/Fridas_sola__2_-removebg-preview.png",
+        "descripcion": "Maceta con forma de Frida Kahlo, diseño 2"
+    },
+    {
+        "id": 3,
+        "nombre": "Maceta Frida 3",
+        "precio": 29.99,
+        "imagen": "img/menu/Fridas_sola__4_-removebg-preview.png",
+        "descripcion": "Maceta con forma de Frida Kahlo, diseño 3"
+    },
+    {
+        "id": 4,
+        "nombre": "Maceta Frida 4",
+        "precio": 22.99,
+        "imagen": "img/menu/Fridas_sola__5_-removebg-preview.png",
+        "descripcion": "Maceta con forma de Frida Kahlo, diseño 4"
+    },
+    {
+        "id": 5,
+        "nombre": "Maceta Frida 5",
+        "precio": 27.99,
+        "imagen": "img/menu/Fridas_sola__6_-removebg-preview.png",
+        "descripcion": "Maceta con forma de Frida Kahlo, diseño 5"
+    },
+    {
+        "id": 6,
+        "nombre": "Maceta Frida 6",
+        "precio": 32.99,
+        "imagen": "img/menu/Fridas_sola__7_-removebg-preview.png",
+        "descripcion": "Maceta con forma de Frida Kahlo, diseño 6"
+    }
+]
